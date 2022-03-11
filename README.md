@@ -41,6 +41,6 @@ https://github.com/jonaburg/picom
 4. Modify `i3/startx.sh`, `i3/startx2.sh` changing your monitors set
 5. It must be done
 
-I speak spanish (I know you presented it) so you must to traslate some files to see all on english
+I speak spanish so you must to traslate some lines to see all on english
 
-
+Bonus: I've wrote ./printocr.sh as a utils that I call from `i3/config` file to extract text from a selected screenshot area, may be usefull to you and you only must change "spa" option to "en" if you want increase tesseract accurancy
